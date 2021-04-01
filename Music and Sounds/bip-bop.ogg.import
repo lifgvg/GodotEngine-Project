@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/bip-bop.ogg-ee7325fd0ed48a6ac90d51fdb1756a7a.oggstr"
+
+[deps]
+
+source_file="res://Music and Sounds/bip-bop.ogg"
+dest_files=[ "res://.import/bip-bop.ogg-ee7325fd0ed48a6ac90d51fdb1756a7a.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
